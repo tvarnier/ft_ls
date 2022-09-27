@@ -1,4 +1,4 @@
-# FT_LS [[Sujet](https://github.com/tvarnier/42/blob/master/system/ft_ls/subject.pdf)]
+# FT_LS [[Sujet](https://github.com/tvarnier/ft_ls/blob/master/subject.pdf)]
 
 <br>
 
